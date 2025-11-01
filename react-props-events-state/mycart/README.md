@@ -14,6 +14,7 @@ Users can:
 
 ## 📁 Project Structure
 
+```
 ecommerce-shopping-cart/
 │
 ├─ src/
@@ -27,8 +28,9 @@ ecommerce-shopping-cart/
 │
 ├─ package.json
 └─ README.md
+```
 
-## Ensure your directory is set to react-props-event-state/mycart in the terminal
+## Ensure your directory is set to ```react-props-event-state/mycart``` in the terminal
 
-1. **Execute the command to run app**
+1. **Execute the command to run app**  
 ```npm start```

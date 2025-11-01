@@ -6,6 +6,7 @@ A simple **React application** that demonstrates using **JSX** and **props** to 
 
 ## 📁 Project Structure
 
+```
 fullname-app/
 ├─ src/
 │ ├─ components/
@@ -14,8 +15,9 @@ fullname-app/
 │ └─ index.js # Entry point
 ├─ package.json
 └─ README.md
+```
 
-## Ensure your directory is set to react-jsx/fullname-app in the terminal
+## Ensure your directory is set to ```react-jsx/fullname-app``` in the terminal
 
-1. **Execute the command to run index.js file**
+1. **Execute the command to run index.js file**  
 ```npm start```

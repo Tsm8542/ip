@@ -5,7 +5,7 @@ It demonstrates a basic CRUD (Create, Read, Update, Delete) API with **user data
 
 ---
 
-## Ensure your directory is set to express-with-routes in the terminal
+## Ensure your directory is set to ```express-rest-api/express-with-routes``` in the terminal
 
 1. **Execute the command to run server.js file**:  
 ```node server.js```

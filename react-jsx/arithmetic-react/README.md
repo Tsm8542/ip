@@ -11,6 +11,7 @@ This project is a React-based arithmetic calculator that allows users to perform
 5. Responsive and interactive UI with simple styling.
 
 ## Folder Structure
+```
 arithmetic-react/
 │
 ├── node_modules/           # Node.js dependencies
@@ -22,8 +23,9 @@ arithmetic-react/
 │   └── App.css             # Optional styling
 ├── package.json            # Project dependencies and scripts
 └── .gitignore              # Git ignore rules
+```
 
-## Ensure your directory is set to react-jsx/arithmetic-react in the terminal
+## Ensure your directory is set to ```react-jsx/arithmetic-react``` in the terminal
 
-1. **Execute the command to run index.js file**
+1. **Execute the command to run index.js file**  
 ```npm start```

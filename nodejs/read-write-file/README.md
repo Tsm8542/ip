@@ -7,6 +7,7 @@ This example also shows how to properly structure a Node.js project for clean, m
 
 ## 📁 Project Structure
 
+```
 file-handling-nodejs/
 │
 ├─ data/ # Folder for text files used by the app
@@ -17,8 +18,9 @@ file-handling-nodejs/
 │
 ├─ package.json # Node project configuration
 └─ README.md # Project documentation
+```
 
-## Ensure your directory is set to nodejs/read-write-file/src in the terminal
+## Ensure your directory is set to ```nodejs/read-write-file/src``` in the terminal
 
-1. **Execute the command to run index.js file**
+1. **Execute the command to run index.js file**  
 ```node index.js```

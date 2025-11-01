@@ -5,7 +5,7 @@ A simple **Node.js console application** that performs **basic arithmetic operat
 ---
 
 ## 📁 Project Structure
-
+```
 arithmetic-nodejs/
 │
 ├─ src/
@@ -13,8 +13,8 @@ arithmetic-nodejs/
 │
 ├─ package.json # Node.js project configuration
 └─ README.md # Project documentation
+```
+## Ensure your directory is set to ```nodejs/arithmetic-nodejs/src``` in the terminal
 
-## Ensure your directory is set to nodejs/arithmetic-nodejs/src in the terminal
-
-1. **Execute the command to run index.js file**
+1. **Execute the command to run index.js file** :  
 ```node index.js```

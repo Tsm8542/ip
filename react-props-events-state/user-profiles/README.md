@@ -6,6 +6,7 @@ A simple **React application** that demonstrates the use of **functional compone
 
 ## 📁 Project Structure
 
+```
 user-profiles/
 ├─ src/
 │ ├─ components/
@@ -15,8 +16,9 @@ user-profiles/
 │ └─ index.js # Entry point
 ├─ package.json
 └─ README.md
+```
 
-## Ensure your directory is set to react-props-event-state/user-profiles in the terminal
+## Ensure your directory is set to ```react-props-event-state/user-profiles``` in the terminal
 
-1. **Execute the command to run app**
+1. **Execute the command to run app**  
 ```npm start```
