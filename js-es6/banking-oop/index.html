@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Banking System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Banking System</h1>
+
+  <section>
+    <h2>Create Account</h2>
+    <input type="text" id="name" placeholder="Account Holder Name">
+    <input type="number" id="initialBalance" placeholder="Initial Balance">
+    <button id="createAccount">Create Account</button>
+  </section>
+
+  <section>
+    <h2>Operations</h2>
+    <select id="accountSelect">
+      <option value="">Select Account</option>
+    </select>
+    <input type="number" id="amount" placeholder="Amount">
+    <button id="deposit">Deposit</button>
+    <button id="withdraw">Withdraw</button>
+    <button id="checkBalance">Check Balance</button>
+  </section>
+
+  <section>
+    <h2>Account Info</h2>
+    <div id="accountInfo"></div>
+  </section>
+
+  <script src="bank.js"></script>
+</body>
+</html>

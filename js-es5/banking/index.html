@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Banking Example ES5</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Banking System</h1>
+
+  <form id="bankForm">
+    <label for="customerName">Customer Name:</label>
+    <input type="text" id="customerName" placeholder="Enter your name"><br><br>
+
+    <label for="transType">Transaction Type:</label>
+    <select id="transType">
+      <option value="deposit">Deposit</option>
+      <option value="withdraw">Withdraw</option>
+    </select><br><br>
+
+    <label for="amount">Amount:</label>
+    <input type="text" id="amount" placeholder="Enter amount"><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="balanceInfo" style="margin-top:20px; font-weight:bold;"></div>
+  <div id="errorMessages" style="color:red; margin-top:10px;"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
