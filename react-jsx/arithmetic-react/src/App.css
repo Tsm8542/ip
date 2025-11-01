@@ -1,0 +1,9 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+input {
+  width: 150px;
+}
+button {
+  cursor: pointer;
+}
